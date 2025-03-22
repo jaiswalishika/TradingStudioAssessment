@@ -3,8 +3,8 @@ import { plans } from "../data/featuresData"
 const Pricing = () => {
 
   return (
-    <div className="flex flex-col items-center justify-center h-[calc(100vh-10rem)] mt-6 bg-gray-100 p-6">
-      <h2 className="text-3xl font-semibold text-gray-900 mb-2">Simple, transparent pricing</h2>
+    <div className="flex flex-col items-center justify-center h-[calc(100vh-10rem)] bg-gray-100 p-6">
+      <h2 className="text-3xl font-semibold text-gray-900 mt-10 pt-4">Simple, transparent pricing</h2>
       <p className="text-gray-600 mb-6">Choose the perfect plan for your needs</p>
 
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6 max-w-6xl w-full">
