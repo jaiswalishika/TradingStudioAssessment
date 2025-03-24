@@ -29,8 +29,8 @@ Assumptions
 
 ### Installation
 ```bash
-git clone https://github.com/Sarath0506/trading-studio.git
-cd trading-studio
+git clone https://github.com/jaiswalishika/TradingStudioAssessment.git
+cd TradingStudioAssessment
 npm install
 npm run dev
 
